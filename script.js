@@ -3,5 +3,5 @@ jwplayer("video").setup({
   height: "100%",
   autostart: true,
   mute: false,
-  file: "https://prod-sports-eng-gm.jiocinema.com/hls/live/2100299/hd_akamai_iosmob_avc_eng_wpl_s1_m1230224/master.m3u8"
+  file: "https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_ctv_avc_eng_wpl_s1_m1230224/index.m3u8"
 });
