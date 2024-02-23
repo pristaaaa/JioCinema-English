@@ -3,5 +3,5 @@ jwplayer("video").setup({
   height: "100%",
   autostart: true,
   mute: false,
-  file: "https://prod-sports-south-gm.jiocinema.com/hls/live/2099878/hd_akamai_merged_avc_eng_bcci_conference_220224/master.m3u8"
+  file: "https://prod-sports-eng-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_wpl_s1_m1230224/master.m3u8"
 });
